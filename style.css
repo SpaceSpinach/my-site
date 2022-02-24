@@ -87,6 +87,10 @@ body {
   text-align: center;
 }
 
+.avatar {
+  border-radius: 30%;
+}
+
 .intro h3,
 .portfolio h3 {
   margin: 0 0 12px;
